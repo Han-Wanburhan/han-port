@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/han-port/static/css/main.d7203ebd.css",
+    "main.js": "/han-port/static/js/main.1c89384c.js",
+    "static/media/Wireframe.png": "/han-port/static/media/Wireframe.c777096916d1e8a2437a.png",
+    "static/media/Wanburhan_CV.pdf": "/han-port/static/media/Wanburhan_CV.00b3e1d6876d1d38af9d.pdf",
+    "static/media/Gintuay.png": "/han-port/static/media/Gintuay.582b6a10bbb2a73da0ae.png",
+    "static/media/Flexix.png": "/han-port/static/media/Flexix.24e405159ed43f3dc2e4.png",
+    "static/media/Han.jpg": "/han-port/static/media/Han.7763f83685f41eab4c74.jpg",
+    "index.html": "/han-port/index.html",
+    "main.d7203ebd.css.map": "/han-port/static/css/main.d7203ebd.css.map",
+    "main.1c89384c.js.map": "/han-port/static/js/main.1c89384c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7203ebd.css",
+    "static/js/main.1c89384c.js"
+  ]
+}
